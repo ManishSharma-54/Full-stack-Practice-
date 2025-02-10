@@ -1,2 +1,2 @@
-# Full-stack-Practice-
+# Full-stack-Practice
 Practice
